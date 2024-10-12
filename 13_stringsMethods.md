@@ -1,4 +1,4 @@
-# properties and methods in string
+# Properties and Methods in String
 
 ```dart
 String allNames = 'iman,reza,farshad';

@@ -16,7 +16,8 @@ print(num.runtimeType); // ---> int
 ### is
 ```dart
 var num = 10;
-print(num is int); // ---> true or false
+print(num is int);  // ---> true
+print(num is! int); // ---> false
 ```
 
 ### Static Data Type

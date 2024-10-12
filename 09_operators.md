@@ -1,11 +1,11 @@
 # Operators
 
 ### type of operators
-- arithemetic operators
-- increment and decrement operators
-- assignment operators
-- relational operators
-- logical operators
+1) arithemetic operators
+2) increment and decrement operators
+3) assignment operators
+4) relational operators
+5) logical operators
 
 
 ## 1) arithemetic operators ---> + , - , * , / , ~/ , %
